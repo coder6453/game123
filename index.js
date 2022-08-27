@@ -1563,7 +1563,7 @@
         DROP_VELOCITY: -5,
         GRAVITY: 0.6,
         HEIGHT: 47,
-        HEIGHT_DUCK: 160,
+        HEIGHT_DUCK: 25,
         INIITAL_JUMP_VELOCITY: -10,
         INTRO_DURATION: 1500,
         MAX_JUMP_HEIGHT: 30,
